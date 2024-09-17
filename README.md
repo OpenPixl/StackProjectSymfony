@@ -3,20 +3,20 @@ Stack docker pour Symfony
 
 ``
 # Variable Project
-PROJECT="macdev"
-PROJECT_IP_NETWORK=20
+PROJECT="à modifier"
+PROJECT_IP_NETWORK="à modifier"
 RESTART="no"
-USER_ID=1000
-GROUP_ID=1000
-USER="xavier"
-USER_MAIL="xavier.burke@openpixl.fr"
+USER_ID="à modifier"
+GROUP_ID="à modifier"
+USER="à modifier"
+USER_MAIL="à modifier"
 
 # Variables Mariadb
 PMA_HOST=db
-MARIA_ROOT_PASSWORD="Bl@ckS@d_40"
-MARIADB_USER="administrateur"
-MARIADB_PASSWORD="admin123"
-MARIADB_DBNAME="mac_bdd"
+MARIA_ROOT_PASSWORD="à modifier"
+MARIADB_USER="à modifier"
+MARIADB_PASSWORD="à modifier"
+MARIADB_DBNAME="à modifier"
 
 # Variables Serveur apache php
 HTTP_HOST_PORT=81
