@@ -1,0 +1,3 @@
+# Ignore le ficheir des variables stockées
+/.idea/
+.env
